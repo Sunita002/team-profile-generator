@@ -51,8 +51,8 @@ Once the application runs, it will generate an index.html file in the "dist" fol
 
 ## Demo
 
-Click the image below for a video demonstration of the application and the generated index.html file at the end:
-![image](https://user-images.githubusercontent.com/87583026/139599491-3352eb1a-8042-4a07-baa6-9eea44c90171.png)](https://watch.screencastify.com/v/SKaPmEVVDkoxTk03vJ2Z)
+Click the link below for a video demonstration of the application and the generated index.html file at the end:
+(https://watch.screencastify.com/v/SKaPmEVVDkoxTk03vJ2Z)
 
 
 
