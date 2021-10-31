@@ -81,6 +81,7 @@ What the tests passing looks like:
 
 What the index.html file looks like once complete:
 
+![html-rendered-screenshot](https://user-images.githubusercontent.com/87583026/139600527-00d3454a-1f49-429c-a656-a2696b87b3e6.PNG)
 
 ## License
 
