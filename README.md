@@ -76,7 +76,7 @@ What the command line interface looks like:
 
 What the tests passing looks like:
 
- <br /> 
+![image](https://user-images.githubusercontent.com/87583026/139599491-3352eb1a-8042-4a07-baa6-9eea44c90171.png)
 
 What the index.html file looks like once complete:
 
