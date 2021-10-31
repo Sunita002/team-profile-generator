@@ -52,7 +52,7 @@ Once the application runs, it will generate an index.html file in the "dist" fol
 ## Demo
 
 Click the link below for a video demonstration of the application and the generated index.html file at the end:
-(https://watch.screencastify.com/v/SKaPmEVVDkoxTk03vJ2Z)
+
 
 
 
