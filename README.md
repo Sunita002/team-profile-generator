@@ -52,7 +52,7 @@ Once the application runs, it will generate an index.html file in the "dist" fol
 ## Demo
 
 Click the link below for a video demonstration of the application and the generated index.html file at the end:
-
+https://watch.screencastify.com/v/NMthf2MOyFI53rM8yi1K
 
 
 
@@ -72,6 +72,7 @@ JavaScript, Bootstrap, Google Fonts, Material Icons, HTML, Node, Inquirer, Jest 
 
 What the command line interface looks like:
 
+![image](https://user-images.githubusercontent.com/87583026/139600426-f96e2c59-b01a-4cdd-999c-8e260d56f9c1.png)
 
 
 What the tests passing looks like:
